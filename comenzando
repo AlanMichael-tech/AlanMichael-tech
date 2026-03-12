@@ -1,0 +1,11 @@
+  #include <iostream>
+  using namespace std;
+
+  int main(void){
+    cout<<"Hola mundo!"<<endl;
+    return 0;
+  }
+
+  /*  A la salida de pantalla después de compilar o usar el compilador en línea obtendremos
+        Hola mundo!
+  */
